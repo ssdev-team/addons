@@ -1,4 +1,5 @@
 # List of our addons
+                                    Click on the image below to join our discord server!
 
 ***
 

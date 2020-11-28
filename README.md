@@ -7,6 +7,6 @@
 
 ***
 
-## October 2020 :
+## November 2020 :
 - **[ssHUD](https://github.com/ssdev-team/ssHUD)**
 - **[ssScoreboard](https://github.com/ssdev-team/ssScoreboard)** :warning: **NOT PUBLISHED** :warning: 
